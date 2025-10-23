@@ -1,0 +1,96 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: content://com.whatsapp.provider.media/item/3fcc8481-87e9-46f4-9f31-b4572563189d
+Subject: Quadratic Solver & Grade Converter
+Date: Thu, 23 Oct 2025 20:48:04 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs----"
+
+
+------MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs----
+Content-Type: text/html
+Content-ID: <frame-E32FACD31E2938FE34A7E5EF301E17F0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: content://com.whatsapp.provider.media/item/3fcc8481-87e9-46f4-9f31-b4572563189d
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-363fb32a-b5a8-4e35-89df-ea1abaf30b97@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5dc17a43-fae3-48f6=
+-aacb-4b4a26cf65b6@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-a950bce0-2508-4892-a226-bc2bbb5dea0d@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Quadratic Solver &amp; Grade Converter</title>
+   =20
+</head>
+<body>
+    <!-- Quadratic Solver -->
+    <div class=3D"quadratic">
+        <h2>Quadratic Equation Solver</h2>
+        <form id=3D"quadraticForm">
+            <label>a: <input type=3D"number" id=3D"a" required=3D""></label=
+>
+            <label>b: <input type=3D"number" id=3D"b" required=3D""></label=
+>
+            <label>c: <input type=3D"number" id=3D"c" required=3D""></label=
+>
+            <button type=3D"submit">Compute</button>
+            <button type=3D"reset">Reset</button>
+        </form>
+        <div id=3D"quadraticResult"></div>
+    </div>
+
+    <!-- Grade Converter -->
+    <div class=3D"grader">
+        <h2>Grade Converter</h2>
+        <form id=3D"gradeForm">
+            <label>Score: <input type=3D"number" id=3D"score" min=3D"0" max=
+=3D"100" required=3D""></label>
+            <button type=3D"submit">Compute</button>
+            <button type=3D"reset">Reset</button>
+        </form>
+        <div id=3D"gradeResult"></div>
+    </div>
+
+    <!-- JavaScript -->
+   =20
+
+
+</body></html>
+------MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a950bce0-2508-4892-a226-bc2bbb5dea0d@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5dc17a43-fae3-48f6-aacb-4b4a26cf65b6@mhtml.blink
+
+@charset "utf-8";
+
+#adspace:not([style^=3D"position: absolute; left: -5000px"]) { display: non=
+e !important; }
+
+#AdContainer:not([style^=3D"position: absolute; left: -5000px"]) { display:=
+ none !important; }
+
+#ad-header:not([style^=3D"position: absolute; left: -5000px"]) { display: n=
+one !important; }
+
+#ad_space:not([style^=3D"position: absolute; left: -5000px"]) { display: no=
+ne !important; }
+------MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-363fb32a-b5a8-4e35-89df-ea1abaf30b97@mhtml.blink
+
+@charset "utf-8";
+
+.error { color: red; }
+------MultipartBoundary--4BFZVJ0GbYfwxRNbrZkOPh77WkJLUt6kI0RcDXJQLs------
